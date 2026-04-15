@@ -9,10 +9,10 @@
 ![method](fig/method.jpg)
 
 ## 📊 Results
-### Comparison 1
+### Comparisons with Style Transfer Methods
 ![comp1](fig/comp1.jpg)
 
-### Comparison 2
+### Comparisons with Sketch Colorization Methods
 ![comp2](fig/comp2.jpg)
 
 ## Installation
