@@ -1,0 +1,1 @@
+python train.py --dataroot ./datasets/ --name ProST --model pix2pix_ProST --dataset_mode unaligned
