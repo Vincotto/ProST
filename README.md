@@ -15,6 +15,10 @@
 ### Comparisons with Sketch Colorization Methods
 ![comp2](fig/comp2.jpg)
 
+## Dataset
+COCO-Sketch dataset:
+https://github.com/yangxlab/COCO-Sketch
+
 ## Installation
 ```bash
 pip install -r requirements.txt
